@@ -1,5 +1,5 @@
 from math import *
-#cesar diazo c.i:30141644
+#cesar diaz c.i:30141644
 def algoritmo_biseccion(f, a, b, Es, NI):
     Ea= 100 #este es el error aproximado relativo
     i= 1 #contador de iteraciones

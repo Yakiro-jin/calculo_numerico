@@ -1,5 +1,5 @@
 from math import *
-#cesar diazo c.i:30141644
+#cesar diaz c.i:30141644
 
 
 def metodo_euler(f, t0, y0, tn, n):

@@ -1,5 +1,5 @@
 from math import *
-#cesar diazo c.i:30141644
+#cesar diaz c.i:30141644
 
 
 def algoritmo_Newton_Raphson(f, dev_f, Ni, a, b, Es):

@@ -1,4 +1,5 @@
 from math import *
+#cesar diaz c.i:30141644
 
 def metodo_trapecio(f, a, b, n):
 
